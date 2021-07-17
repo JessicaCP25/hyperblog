@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    color: blueviolet;
+    text-align: center;
+    margin-top: 20vh;
+    font-size: 1.8rem;
+}
+.container{
+    border: 5px solid rgb(89, 64, 129);
+    padding: 10px;
+    width: 70%;
+    margin: 0 auto;
+}
