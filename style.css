@@ -7,13 +7,13 @@ html{
     font-size: 62.5%;
 }
 body{
-    color: blueviolet;
+    color: rgb(226, 43, 226);
     text-align: center;
     margin-top: 20vh;
     font-size: 1.8rem;
 }
 .container{
-    border: 5px solid rgb(89, 64, 129);
+    border: 5px solid rgb(129, 64, 129);
     padding: 0em;
     width: 70%;
     height: 50%;
