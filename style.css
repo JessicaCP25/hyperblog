@@ -35,3 +35,9 @@ body{
 .header{
     padding: 1.5em;
 }
+#footer{
+    background-color: grey;
+    color: white;
+    height: 35px;
+    padding: 0.4em;
+}
